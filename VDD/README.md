@@ -1,5 +1,6 @@
 # Videogame Design Document
 ![alt text][inicio] 
+<!-- Imagen de inicio -->
 [inicio]: /Assets/readme_img/juego.png "imagen inicio"
 ## Sección 1 - Generalidades
 1. Título:  
