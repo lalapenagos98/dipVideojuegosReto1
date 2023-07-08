@@ -5,7 +5,7 @@ Es un videojuego de plataformas 2D creado como proyecto para el diplomado de des
 - C#
 - GitHub
 ### Paquetes de Assets
-Estos paquetes de Assets son utilizados en el juego y pueden o no estar incorporados en el repositorio[^1].
+Estos paquetes de Assets son utilizados en el juego y pueden o no estar incorporados en el repositorio.
 - [2D Simple UI Pack](https://assetstore.unity.com/packages/2d/gui/icons/2d-simple-ui-pack-218050)
 
 ### Documento de Diseño

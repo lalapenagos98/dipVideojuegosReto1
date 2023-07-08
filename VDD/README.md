@@ -1,4 +1,6 @@
 # Videogame Design Document
+![alt text][inicio] 
+[inicio]: /Assets/readme_img/juego.png "imagen inicio"
 ## Sección 1 - Generalidades
 1. Título:  
 _Pixel Punk Soldier_  
@@ -77,10 +79,8 @@ _CyberNexus es una ciudad vibrante y peligrosa, llena de rascacielos futuristas,
       - 2. Soldados: Soldados cibernéticamente mejorados para imponer su dominio sobre la ciudad y suprimir cualquier intento de rebelión.
 
 3. Armas o elementos colectables:  
-_Armas: 
-Aturdidor laser: aturde a los soldados temporalmente
-Gancho: Aumenta la capacidad de movimiento del personaje y no es afectado por las restricciones electricas.
-_  
+_Armas: Aturdidor laser: aturde a los soldados temporalmente
+Gancho: Aumenta la capacidad de movimiento del personaje y no es afectado por las restricciones electricas._  
 
 ## Sección 5 – Game Play I/O Controls & UI Interfaces
 1. Game Play I/O Controls:
@@ -99,7 +99,9 @@ _
 2. GUI Interfaces:
 
 ![alt text][wireframe]  
-![alt text][Level1]  
+![alt text][Level1]
+![alt text][Level2] 
+![alt text][Level3] 
 <!-- Referencias para las imagenes -->
 [wireframe]: /Assets/readme_img/Wireframe_UI.jpg "Wireframe de las UI" 
 [Level1]: /Assets/readme_img/Level1.png "Esquema para el nivel 1"
@@ -122,5 +124,3 @@ _       -Cargar partida
 ## Sección 6 – Características Visuales y de Audio 
 _-Como caracteristica visual se piensa en diseño pixelArt con estetica Cyberpunk
  -Como Audio se empleara un sonido retro estilo supernintedo 8bits_
-
-## TODAS LAS OTRAS SECCIONES QUE PUEDAN SER NECESARIAS
