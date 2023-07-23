@@ -42,9 +42,24 @@ TagManager:
   - name: background
     uniqueID: 1003711671
     locked: 0
+  - name: background2
+    uniqueID: 4219249377
+    locked: 0
+  - name: background3
+    uniqueID: 873792675
+    locked: 0
+  - name: background4
+    uniqueID: 2701887631
+    locked: 0
   - name: logo
     uniqueID: 92384045
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: decoraciones
+    uniqueID: 3508950471
+    locked: 0
+  - name: pj
+    uniqueID: 2965359559
     locked: 0
