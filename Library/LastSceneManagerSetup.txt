@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Nivel 3.unity
+=======
+- path: Assets/Scenes/Nivel 1.unity
+>>>>>>> CambiosFelipe
   isLoaded: 1
   isActive: 1
   isSubScene: 0
