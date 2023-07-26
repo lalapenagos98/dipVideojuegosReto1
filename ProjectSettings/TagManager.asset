@@ -56,6 +56,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: fondo
+    uniqueID: 3041759597
+    locked: 0
   - name: decoraciones
     uniqueID: 3508950471
     locked: 0
