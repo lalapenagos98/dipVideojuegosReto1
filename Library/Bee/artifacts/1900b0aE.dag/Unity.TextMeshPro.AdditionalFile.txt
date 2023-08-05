@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-C:\Users\lalit\OneDrive\Documents\PROYECTO\dipVideojuegosReto1-cambiosCamilo\dipVideojuegosReto1-cambiosCamilo
-=======
-D:\documentos\cursos\videojuegos\dipVideojuegosReto1-cambiosCamilo\dipVideojuegosReto1-cambiosCamilo
->>>>>>> CambiosFelipe
+C:\Users\lalit\OneDrive\Documents\GitHub\dipVideojuegosReto1
