@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - sonidoEscenas
+  - FallDetector
+  - PJ
+  - enemy1
+  - bateria
+  - enemy2
+  - trampas
+  - enemy3
+  - scena3
+  - scena2
+  - scena
   layers:
   - Default
   - TransparentFX
@@ -55,9 +66,6 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: fondo
-    uniqueID: 3041759597
     locked: 0
   - name: decoraciones
     uniqueID: 3508950471
