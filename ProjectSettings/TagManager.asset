@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sonidoEscenas
+  - FallDetector
+  - PJ
+  - enemy1
+  - bateria
+  - enemy2
+  - trampas
+  - enemy3
+  - scena3
+  - scena2
+  - scena
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1003711671
+    locked: 0
+  - name: background2
+    uniqueID: 4219249377
+    locked: 0
+  - name: background3
+    uniqueID: 873792675
+    locked: 0
+  - name: background4
+    uniqueID: 2701887631
+    locked: 0
+  - name: logo
+    uniqueID: 92384045
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: decoraciones
+    uniqueID: 3508950471
+    locked: 0
+  - name: pj
+    uniqueID: 2965359559
+    locked: 0
+  - name: Ground
+    uniqueID: 2569726867
+    locked: 0
