@@ -30,6 +30,7 @@ public class PlayerController : MonoBehaviour
     public Slider barra;
     public int dead;
     public GameObject panelMuerte;
+    public Vector3 initialPosition;
 
 
     public void Start()
@@ -37,6 +38,7 @@ public class PlayerController : MonoBehaviour
         Time.timeScale = 1f;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        initialPosition = transform.position;
     }
 
     public void Damage()
@@ -59,7 +61,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collider.tag == "FallDetector")
         {
-            gameObject.transform.position = puntoAparicion; // El personaje aparece nuevamente al inicio de la escena
+            gameObject.transform.position = initialPosition; // El personaje aparece nuevamente al inicio de la escena
             float restaSize = 0.05f;
             barra.value = Mathf.Clamp(barra.value - restaSize, 0f, 1f);
         }

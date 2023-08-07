@@ -268,7 +268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04d920be1a8c25b4badd67b0f49619b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 7
   jumpForce: 10
   groundCheck: {fileID: 9016459963579561954}
   groundLayer:
@@ -286,6 +286,7 @@ MonoBehaviour:
   barra: {fileID: 0}
   dead: 0
   panelMuerte: {fileID: 0}
+  initialPosition: {x: 0, y: 0, z: 0}
 --- !u!50 &9016459963883954776
 Rigidbody2D:
   serializedVersion: 4
